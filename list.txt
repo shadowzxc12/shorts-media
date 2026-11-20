@@ -8,6 +8,7 @@ p01/0002_honey_never_spoils.mp4
 p01/0003_bananas_are_berries.mp4
 p01/0004_eiffel_tower_grows.mp4
 p01/0005_sharks_older_than_trees.mp4
+long/ball_race_tournament_19_rounds.mp4
 races/short_v03.mp4
 p01/0006_cows_best_friends.mp4
 races/short_v04.mp4
