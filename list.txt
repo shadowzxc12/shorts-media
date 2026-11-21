@@ -18,6 +18,7 @@ p01/0008_venus_day_longer_than_year.mp4
 races/short_v06.mp4
 p01/0009_flamingos_pink_food.mp4
 races/short_v11.mp4
+long/how_lego_almost_went_bankrupt.mp4
 p01/0010_sloth_hold_breath.mp4
 races/short_v12.mp4
 p02/0011_hot_water_freezes_faster.mp4
