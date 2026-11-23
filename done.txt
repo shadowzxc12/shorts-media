@@ -18,3 +18,4 @@ p01/0008_venus_day_longer_than_year.mp4
 races/short_v06.mp4
 p01/0009_flamingos_pink_food.mp4
 races/short_v11.mp4
+long/how_lego_almost_went_bankrupt.mp4
