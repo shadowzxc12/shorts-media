@@ -19,3 +19,5 @@ races/short_v06.mp4
 p01/0009_flamingos_pink_food.mp4
 races/short_v11.mp4
 long/how_lego_almost_went_bankrupt.mp4
+stories/s01_boston_molasses_flood.mp4
+stories/s02_great_emu_war.mp4
