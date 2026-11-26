@@ -28,3 +28,9 @@ s06_wolf_hachiko Cu5ps6H_NCM
 s07_wolf_chicken iK1n4brBkOI
 s08_wolf_eiffel FNwsGkQKis0
 s09_wolf_meat 8sWQNy4kyNg
+s10_wolf_lightning rdSZmNOViPA
+s11_wolf_jockey GpqtMgWGw7E
+s12_wolf_jessop yZRBbQmI0yM
+s13_wolf_yamaguchi -amXIBfnEVo
+s14_wolf_stink Z3ktfjPxoMo
+s15_wolf_togo s8Je60EGoQs
